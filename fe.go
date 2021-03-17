@@ -8,7 +8,7 @@ package ristretto255
 import (
 	"math/big"
 
-	"ristretto/internal/radix51"
+	"github.com/HouMYt/ristretto255/internal/radix51"
 )
 
 // fePow22523 sets out to z^((p-5)/8). (p-5)/8 is 2^252-3.

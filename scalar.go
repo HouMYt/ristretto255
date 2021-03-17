@@ -6,7 +6,7 @@ package ristretto255
 
 import (
 	"encoding/base64"
-	"ristretto/internal/scalar"
+	"github.com/HouMYt/ristretto255/internal/scalar"
 )
 
 // A Scalar is an element of the ristretto255 scalar field, as specified in

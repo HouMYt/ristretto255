@@ -5,7 +5,7 @@
 package edwards25519
 
 import (
-	"ristretto/internal/radix51"
+	"github.com/HouMYt/ristretto255/internal/radix51"
 )
 
 var (

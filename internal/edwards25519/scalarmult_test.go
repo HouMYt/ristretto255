@@ -10,8 +10,8 @@ import (
 	"testing/quick"
 	"time"
 
-	"ristretto/internal/radix51"
-	"ristretto/internal/scalar"
+	"github.com/HouMYt/ristretto255/internal/radix51"
+	"github.com/HouMYt/ristretto255/internal/scalar"
 )
 
 // quickCheckConfig will make each quickcheck test run (2^6 * -quickchecks)

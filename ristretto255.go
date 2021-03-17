@@ -16,9 +16,9 @@ import (
 	"bytes"
 	"encoding/base64"
 	"errors"
-	"ristretto/internal/edwards25519"
-	"ristretto/internal/radix51"
-	"ristretto/internal/scalar"
+	"github.com/HouMYt/ristretto255/internal/edwards25519"
+	"github.com/HouMYt/ristretto255/internal/radix51"
+	"github.com/HouMYt/ristretto255/internal/scalar"
 )
 
 // Constants from draft-hdevalence-cfrg-ristretto-01, Section 3.1.

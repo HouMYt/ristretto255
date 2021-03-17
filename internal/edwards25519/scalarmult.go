@@ -6,7 +6,7 @@ package edwards25519
 
 import (
 	"fmt"
-	"ristretto/internal/scalar"
+	"github.com/HouMYt/ristretto255/internal/scalar"
 	"time"
 )
 
